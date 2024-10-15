@@ -1,0 +1,16 @@
+Parameters	Value	Generation Status
+Evaluated Time in Julian Date (t0)	2460100.25 JD	Manually Set
+Minimum Impact Parameter (u0)	0.84121	by pyLIMA
+Event Timescale in days (tE)	250	Manually Set
+Angular Separation in mas (aS)	3.5258	by pyLIMA
+Mass Ratio (ML/MS) (q)	Various, see below	Manually Set
+Angular Separation (𝛼)	0.46575	by pyLIMA
+Angular Source Radius (𝜌)	-0.69256	by pyLIMA
+North Component of Parallax (𝜋EN)	0.36933	by pyLIMA
+East Component of Parallax (𝜋EE)	2148.8099	by pyLIMA
+Parallel Orbital Motion (𝛾||)	570.79948	by pyLIMA
+Perpendicular Orbital Motion (𝛾⟂)	1689.79223	by pyLIMA
+Radial Orbital Motion (𝛾r)	199.03474	by pyLIMA
+13	208.58679	by pyLIMA
+14	347294.5733	by pyLIMA
+15	2207.86412	by pyLIMA
